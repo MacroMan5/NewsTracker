@@ -1,0 +1,24 @@
+# .gitignore
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment files
+venv/
+env/
+
+# Ignore Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore some common temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.DS_Store
